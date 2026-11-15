@@ -1,0 +1,7 @@
+wrangler.jsonc
+.gitignore
+.assetsignore
+supabase_setup.sql
+node_modules
+.wrangler
+.git
